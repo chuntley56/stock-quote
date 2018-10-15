@@ -1,13 +1,13 @@
 {
-  "main.css": "/stock-quote/static/css/main.4fe90d2a.chunk.css",
-  "main.js": "/stock-quote/static/js/main.00424bba.chunk.js",
-  "main.js.map": "/stock-quote/static/js/main.00424bba.chunk.js.map",
+  "main.css": "/stock-quote/static/css/main.04b7b348.chunk.css",
+  "main.js": "/stock-quote/static/js/main.7982b96f.chunk.js",
+  "main.js.map": "/stock-quote/static/js/main.7982b96f.chunk.js.map",
   "static/js/1.d99e9afe.chunk.js": "/stock-quote/static/js/1.d99e9afe.chunk.js",
   "static/js/1.d99e9afe.chunk.js.map": "/stock-quote/static/js/1.d99e9afe.chunk.js.map",
   "runtime~main.js": "/stock-quote/static/js/runtime~main.24b9915b.js",
   "runtime~main.js.map": "/stock-quote/static/js/runtime~main.24b9915b.js.map",
-  "static/css/main.4fe90d2a.chunk.css.map": "/stock-quote/static/css/main.4fe90d2a.chunk.css.map",
+  "static/css/main.04b7b348.chunk.css.map": "/stock-quote/static/css/main.04b7b348.chunk.css.map",
   "index.html": "/stock-quote/index.html",
-  "precache-manifest.820f3d2a309ec0a8a689b98732098025.js": "/stock-quote/precache-manifest.820f3d2a309ec0a8a689b98732098025.js",
+  "precache-manifest.da8ca973aa9a2c7e9df8403f4abe06dc.js": "/stock-quote/precache-manifest.da8ca973aa9a2c7e9df8403f4abe06dc.js",
   "service-worker.js": "/stock-quote/service-worker.js"
 }
